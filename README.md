@@ -1,4 +1,5 @@
 # hello-world
 hmm masih bingung hahaha XD
 
-changes from git
+change from git (1)
+change from git (2)
